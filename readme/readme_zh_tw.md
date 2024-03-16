@@ -1,3 +1,5 @@
+[English](https://github.com/smallmin82465/Real-time-stock-and-options-data-collection-and-analysis-system/blob/main/README.md)
+
 # 即時股票和期權數據收集與分析系統
 
 這是一個基於Python的股票/期權分析系統，可以從Yahoo Finance獲取即時的股票和期權數據，並提供數據處理、查詢、驗證和可視化等功能。
