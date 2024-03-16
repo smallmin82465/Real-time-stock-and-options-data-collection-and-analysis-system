@@ -1,3 +1,4 @@
+[中文](https://github.com/smallmin82465/Real-time-stock-and-options-data-collection-and-analysis-system/blob/main/readme/readme_zh_tw.md)
 # Real-time Stock and Options Data Collection and Analysis System
 
 This is a Python-based stock/options analysis system that can retrieve real-time stock and options data from Yahoo Finance and provide functions such as data processing, querying, verification, and visualization.
